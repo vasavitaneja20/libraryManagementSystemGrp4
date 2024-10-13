@@ -1,7 +1,16 @@
 Detailed Problem Statement: Library Management System
 
 1. Introduction:
-In modern libraries, managing a large collection of books and ensuring the smooth interaction between the library and its users is becoming increasingly difficult due to manual operations. To streamline these processes, we need a Library Management System (LMS) that efficiently handles book cataloging, member registration, book lending, and return operations. The aim of this project is to design and develop an automated solution that helps both librarians and members manage library resources with ease.
+In modern libraries, managing a large collection of books and ensuring the smooth interaction between the 
+library and its users is becoming increasingly difficult due to manual operations. To streamline these 
+processes, we need a Library Management System (LMS) that efficiently handles book cataloging, member 
+registration, book lending, and return operations. The aim of this project is to design and develop an 
+automated solution that helps both librarians and members manage library resources with ease.
 
 2. Problem Context:
-A library holds a variety of books that need to be managed in terms of acquisition, storage, and lending. A librarian manually maintains records of available books, issued books, returned books, and the fines for late returns. Members frequently face challenges in finding desired books, tracking borrowing history, and understanding due dates. There is also a need for an automated notification system to remind members about returning or reserving books. These challenges can be addressed by developing a comprehensive and automated Library Management System.
+A library holds a variety of books that need to be managed in terms of acquisition, storage, and lending. 
+A librarian manually maintains records of available books, issued books, returned books, and the fines for 
+late returns. Members frequently face challenges in finding desired books, tracking borrowing history, and 
+understanding due dates. There is also a need for an automated notification system to remind members about 
+returning or reserving books. These challenges can be addressed by developing a comprehensive and automated 
+Library Management System.
