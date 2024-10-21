@@ -27,4 +27,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: vasavitaneja/library_management:latest  # Replace with your DockerHub username and repo name
+        tags: vatsalmittal7904/library_management:latest  # Replace with your DockerHub username and repo name
