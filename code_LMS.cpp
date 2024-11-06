@@ -37,7 +37,7 @@ struct Member {
 // Library class managing books and members
 class Library {
     vector<Book> books;       // Collection of books in the library
-    vector<Member> members;   // Collection of library members
+    vector<Member> members;   // Collection of library members.
 
 public:
     // Function to add a new book to the library
